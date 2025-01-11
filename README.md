@@ -11,6 +11,9 @@ Os relatórios discentes de acompanhamento estão organizados separadamente por 
 <br>
 <br>
 **Segundo relatório:** [Clique aqui para acessar o relatório referente ao segundo procedimento](https://github.com/luizmarinhojr/loja-database/blob/main/segundo-relatorio-discente-de-acompanhamento.pdf)
+<br>
+<br>
+**Consultas SQL sobre os dados inseridos:** [Clique aqui para acessar as consultas SQL](https://github.com/luizmarinhojr/loja-database/blob/main/sql/queries.sql)
 
 ## Tecnologias utilizadas:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
